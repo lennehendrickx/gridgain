@@ -1,0 +1,3 @@
+rootProject.name = 'gridgaintest'
+include 'base', 'server'
+
